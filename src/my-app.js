@@ -1,5 +1,5 @@
 import { LitElement, html} from '../node_modules/lit';
-import './components/test-component';
+import './components/test-component.js';
 
 export class MyApp extends LitElement {
 
