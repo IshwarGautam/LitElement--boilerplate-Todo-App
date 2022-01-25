@@ -1,4 +1,4 @@
-import { LitElement, html} from 'lit';
+import { LitElement, html} from '../node_modules/lit';
 import './components/test-component';
 
 export class MyApp extends LitElement {
